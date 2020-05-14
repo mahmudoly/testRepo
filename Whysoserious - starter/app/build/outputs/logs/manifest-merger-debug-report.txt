@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cf53f981d00b9190b3283237e6d5f758\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5f2bb4c9d1f0764ad493045a389e75bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\051dba99678c017b60ac35b5f84a347e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9db2aa979714aaf3ef1a68aefb9b3932\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\d1620b5f738ae2757ea37b00d970b676\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5c8b5f8d166c51d4811c23f58d16d29c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7e9e5ce8e57dd3ca2b009c0aab3ddc70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4d89ceef1d268b6b48fa1de941f4473b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9de8db38e1f8f1b51c4ea67b4c2f4029\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\45f972e1e61b45e5de7de2d756242198\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b57054fb5fa06f1972ce59a28af5b98a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\0d29e93c837e20dd7591f1b4480b72ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7f258508e517d7a763a4084489999de1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c2089a409b992dcf5937260dd230588a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e2cebd39ff63187718c27b0cd03423cc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1464235110fd4e4803292093e1bf82db\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3252f2554f36e874b256174ef743910f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b5f458dd016ff93b1254d699f7515b78\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:3:11-59
+		INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:5:3-41:17
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cf53f981d00b9190b3283237e6d5f758\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cf53f981d00b9190b3283237e6d5f758\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:11:7-33
+	android:label
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:7:7-33
+	android:theme
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:6:7-26
+activity#com.raywenderlich.android.whysoserious.ui.welcome.WelcomeActivity
+ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:14:5-20:16
+	android:name
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:14:15-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:15:7-19:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:16:9-60
+	android:name
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:18:9-68
+	android:name
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:18:19-66
+activity#com.raywenderlich.android.whysoserious.ui.login.LoginActivity
+ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:22:5-25:71
+	android:screenOrientation
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:24:9-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:25:9-69
+	android:name
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:23:9-47
+activity#com.raywenderlich.android.whysoserious.ui.register.RegisterActivity
+ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:27:5-30:71
+	android:screenOrientation
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:29:9-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:30:9-69
+	android:name
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:28:9-53
+activity#com.raywenderlich.android.whysoserious.ui.addJoke.AddJokeActivity
+ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:32:5-35:71
+	android:screenOrientation
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:34:9-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:35:9-69
+	android:name
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:33:9-51
+activity#com.raywenderlich.android.whysoserious.ui.main.MainActivity
+ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:37:5-40:43
+	android:screenOrientation
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:39:9-45
+	android:theme
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:40:9-41
+	android:name
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:38:9-45
+uses-sdk
+INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cf53f981d00b9190b3283237e6d5f758\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cf53f981d00b9190b3283237e6d5f758\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5f2bb4c9d1f0764ad493045a389e75bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5f2bb4c9d1f0764ad493045a389e75bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\051dba99678c017b60ac35b5f84a347e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\051dba99678c017b60ac35b5f84a347e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9db2aa979714aaf3ef1a68aefb9b3932\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9db2aa979714aaf3ef1a68aefb9b3932\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\d1620b5f738ae2757ea37b00d970b676\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\d1620b5f738ae2757ea37b00d970b676\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5c8b5f8d166c51d4811c23f58d16d29c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5c8b5f8d166c51d4811c23f58d16d29c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7e9e5ce8e57dd3ca2b009c0aab3ddc70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7e9e5ce8e57dd3ca2b009c0aab3ddc70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4d89ceef1d268b6b48fa1de941f4473b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4d89ceef1d268b6b48fa1de941f4473b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9de8db38e1f8f1b51c4ea67b4c2f4029\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9de8db38e1f8f1b51c4ea67b4c2f4029\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\45f972e1e61b45e5de7de2d756242198\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\45f972e1e61b45e5de7de2d756242198\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b57054fb5fa06f1972ce59a28af5b98a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b57054fb5fa06f1972ce59a28af5b98a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\0d29e93c837e20dd7591f1b4480b72ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\0d29e93c837e20dd7591f1b4480b72ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7f258508e517d7a763a4084489999de1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7f258508e517d7a763a4084489999de1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c2089a409b992dcf5937260dd230588a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c2089a409b992dcf5937260dd230588a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e2cebd39ff63187718c27b0cd03423cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e2cebd39ff63187718c27b0cd03423cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1464235110fd4e4803292093e1bf82db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1464235110fd4e4803292093e1bf82db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3252f2554f36e874b256174ef743910f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3252f2554f36e874b256174ef743910f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b5f458dd016ff93b1254d699f7515b78\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Mahmud\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b5f458dd016ff93b1254d699f7515b78\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mahmud\AndroidStudioProjects\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
